@@ -1,3 +1,5 @@
-#! /usr/bin/env sh
+#! /usr/bin/env bash
 
-echo "Hello World!"
+fiko-cli() {
+      echo "Hello World!"
+}
